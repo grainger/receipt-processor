@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PfIgIgqRddgaz8GPWv/dhxMQMB79aPVoZpkkuIH/Fzw=",
+  "Source": "ReceiptProcessor",
+  "BasePath": "_content/ReceiptProcessor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
